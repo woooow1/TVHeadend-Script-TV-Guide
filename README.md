@@ -1,5 +1,3 @@
-[![N|Solid](http://i68.tinypic.com/a1ohky.png)](https://linuxhelps.net)
-
 <b>TVHeadend Script for EPG Grabber from url</b>
 
 This script will work on Debian, Ubuntu and probably other distros
@@ -24,6 +22,4 @@ cp tv_grab_url /usr/bin/tv_grab_url
  Configuration > Channel > EPG Grabber > Internal Grabber > XMLTV: TV Grab by URL > Save
 
 ```
-
-<b>Script work only on Clean Debian/Ubuntu install servers</b>
 
