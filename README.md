@@ -11,9 +11,9 @@ Author Ivan Bachvarov a.k.a SlaSerX
 
 
 ```sh
-git clone https://github.com/SlaSerX/TVHeadend-Script-TV-Guider
+git clone https://github.com/SlaSerX/TVHeadend-Script-TV-Guide.git
 
-cd TVHeadend-Script-TV-Guide/
+cd TVHeadend-Script-TV-Guide
 
 chmod +x tv_grab_url
 
